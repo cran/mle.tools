@@ -1,0 +1,10 @@
+865a345c83eb034e7631a080abd49665 *DESCRIPTION
+2076fe635365a355b1871232999011cf *NAMESPACE
+361e5eb0a9727fbf241e1e99d4248ba6 *NEWS.md
+6617b02d09bf21997800ce4ccf438570 *R/coxsnell.bc.R
+863a4974883ecc90b61f53245e054982 *R/expected.varcov.R
+07b335e44a4fd4376f6ad61c93d304e0 *R/observed.varcov.R
+3deea57daf3c82018852d43dacbc2782 *man/coxsnell.bc.Rd
+de1a63303000b73fb065bd816f98c845 *man/expected.varcov.Rd
+5656882f6b3fba7e4df99bbfebb4e819 *man/mletools.Rd
+330659389d2f15538a35208e6af5e851 *man/observed.varcov.Rd
